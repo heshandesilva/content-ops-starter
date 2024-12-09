@@ -94,7 +94,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: The Ultimate Guide to Coin Laundries in Northcote
-  metaDescription: lorem-ipsum
+  metaDescription: The Ultimate Guide to Coin Laundries in Northcote
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/northcote coin laundry.png
