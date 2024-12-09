@@ -93,7 +93,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: The Ultimate Guide to Coin Laundries in Northcote
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
