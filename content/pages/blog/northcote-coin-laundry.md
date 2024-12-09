@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/northcote coin laundry.png
-  altText: Thumbnail
+  altText: northcote coin laundry
   elementId: ''
   styles:
     self:
