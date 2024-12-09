@@ -97,6 +97,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/northcote coin laundry.png
 colors: bg-light-fg-dark
 styles:
   self:
